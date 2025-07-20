@@ -3,6 +3,7 @@
 This folder contains Java programs to solve Data Structures and Algorithms problems related to Arrays. 
 
 Topics covered:
+- `ArrayDeclaration.java`: Basic array declaration, initialization, and printing in Java.
 - Finding minimum and maximum
 - Reverse an array
 - Move zeros to the end
